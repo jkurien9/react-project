@@ -1,0 +1,50 @@
+/* Nav Bar */
+
+.nav-container {
+    margin: auto;
+    max-width: 90%;
+    overflow: auto;
+    padding: 0 20px;
+}
+#navbar {
+    background: pink;
+    color: gray;
+    overflow: auto;
+}
+#navbar h1 {
+    float: left;
+    padding: 13px 0px;
+}
+#navbar ul {
+    list-style: none;
+    float: right;
+}
+#navbar ul li {
+    float: left;
+}
+#navbar ul li a {
+    display: inline-block;
+    padding: 20px 40px;
+    text-align: center;
+}
+#navbar ul li a:hover,
+#navbar ul li a.current {
+    background: pink;
+    color: gray;
+}
+
+/* .blue {
+    color: rgb(0, 255, 234);
+}
+
+.red {
+    color: red;
+} */
+
+@media screen and (max-width: 600px) {
+    #navbar ul li a {
+        display: inline-block;
+        padding: 10px 20px;
+        text-align: center;
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "products":[
+        {
+            "image": "imgs/polish.jpg",
+            "name": "Amara Halal Cosmetics",
+            "price": "$9.00",
+            "description": "Cherry Red Nail Polish",
+            "cost": "low",
+            "type": "nail polish"
+        },
+        {
+            "image": "imgs/highlighter.jpeg",
+            "name": "Cover FX",
+            "price": "$80.00",
+            "description": "Cover FX Highlighter",
+            "cost": "medium",
+            "type": "Highlighter"
+            
+        },
+        {
+            "image": "imgs/lipgloss.jpg",
+            "name": "Lipgloss",
+            "price": "$42.00",
+            "description": "Fenty Beauty Lipgloss",
+            "cost": "medium",            
+            "type": "Lipgloss"
+        },
+        {
+            "image": "imgs/mascara.jpeg",
+            "name": "Too Faced Mascara",
+            "price": "$33.00",
+            "description": "Too Faced Better Than Sex Mascara",
+            "cost": "medium",
+            "type": "Mascara"
+        },
+        {
+            "image": "imgs/lipstick.jpeg",
+            "name": "Yardley Lipstick",
+            "price": "$65.00",
+            "description": "Yardley Intense Matte Lipstick",
+            "cost": "medium",
+            "type": "Lipstick"
+        },
+        {
+            "image": "imgs/concealer.jpeg",
+            "name": "Too Faced Concealer",
+            "price": "$25.00",
+            "description": "Too Faced Born This Way Concealer",
+            "cost": "medium",
+            "type": "Concealer"
+        },
+        {
+            "image": "imgs/spray.jpeg",
+            "name": "Urban Decay",
+            "price": "$43.00",
+            "description": "Urban Decay All Nighter Setting Spray",
+            "cost": "medium",
+            "type": "spray"
+
+        },
+        {
+            "image": "imgs/bronzer.png",
+            "name": "Makeup Factory",
+            "price": "$29.00",
+            "description": "Makeup Factory Bronzer",
+            "cost": "medium",
+            "type": "bronzer"
+
+        },
+        {
+            "image": "imgs/eyeshadow.jpg",
+            "name": "BH Cosmetics Eyeshadow",
+            "price": "$50.00",
+            "description": "Bh Cosmetics Eyeshadow Palette perfect heavy pigmentation",
+            "cost": "medium",
+            "type": "palette"
+
+        },
+        {
+            "image": "imgs/eyeliner.jpg",
+            "name": "Kat Von D Eyeliner",
+            "price": "$45.00",
+            "description": "Kat Von D Eyeliner is so sharp and smooth, it glides",
+            "cost": "medium",
+            "type": "pencil"
+        },
+        {
+            "image": "imgs/eyebrow.jpeg",
+            "name": "Eyebrow Pencil",
+            "price": "$50.00",
+            "description": "pencil",
+            "cost": "medium",
+            "type": "pencil"
+
+        },
+        {
+            "image": "imgs/primer.jpeg",
+            "name": "The Pore fessional",
+            "price": "Offer: $32.00",
+            "description": "the PORE fessional PORE PRIMER",
+            "cost": "medium",
+            "type": "primer"
+        }
+    ]
+}
+
