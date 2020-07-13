@@ -4,9 +4,9 @@ import './App.css';
 
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
-import Index from './pages/Index';
-import Product from './pages/Product';
-import Contact from './pages/Contact'
+import Index from '../src/components/Index';
+import Product from '../src/components/Product';
+import Contact from '../src/components/Contact'
 
 function App() {
   return (
